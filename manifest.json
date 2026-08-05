@@ -1,0 +1,26 @@
+{
+  "name": "Trousse Outils Clément",
+  "short_name": "Trousse Outils",
+  "description": "Ma trousse à outils personnelle avec liens rapides et projets",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1e1e1e",
+  "theme_color": "#1e1e1e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%231e1e1e' width='192' height='192' rx='45'/><text x='96' y='110' font-size='100' font-weight='bold' fill='%23fff' text-anchor='middle' dominant-baseline='middle'>T</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%231e1e1e' width='540' height='720'/><text x='270' y='80' font-size='40' fill='%23fff' text-anchor='middle'>Trousse Outils</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml"
+    }
+  ]
+}
